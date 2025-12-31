@@ -1,3 +1,7 @@
+## 1.0.4
+
+* 📺 Added YouTube demo video to documentation
+
 ## 1.0.0
 
 * 🎉 Initial release

@@ -1,6 +1,6 @@
 name: ai_image_validator
 description: A Flutter package for validating images using Google's Gemini AI. Easily verify if images match specific classes with customizable confidence thresholds.
-version: 1.0.0
+version: 1.0.4
 homepage: https://github.com/lecodeur228/ai_image_validator
 repository: https://github.com/lecodeur228/ai_image_validator
 issue_tracker: https://github.com/lecodeur228/ai_image_validator/issues

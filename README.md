@@ -5,6 +5,12 @@
 
 A Flutter package for validating images using Google's Gemini AI. Easily verify if images match specific classes with customizable confidence thresholds.
 
+## 🎥 Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/Mh787H-E0ig)
+
+See the package in action: image selection, AI validation, and result display.
+
 ## ✨ Features
 
 - 🤖 **AI-Powered Validation**: Uses Google's Gemini AI for accurate image classification

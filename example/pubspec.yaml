@@ -1,0 +1,23 @@
+name: example
+description: Exemple d'utilisation du package ai_image_validator
+publish_to: 'none'
+
+environment:
+  sdk: ^3.10.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ai_image_validator:
+    path: ../
+  image_picker: ^1.2.1
+  get: ^4.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

@@ -36,8 +36,8 @@
 
 4. **Mettre à jour pubspec.yaml** avec votre vrai repository :
    ```yaml
-   homepage: https://github.com/VOTRE_USERNAME/ai_image_validator
-   repository: https://github.com/VOTRE_USERNAME/ai_image_validator
+   homepage: https://github.com/lecodeur228/ai_image_validator
+   repository: https://github.com/lecodeur228/ai_image_validator
    ```
 
 ### Option 2 : Publier sans GitHub

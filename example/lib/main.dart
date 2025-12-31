@@ -44,7 +44,7 @@ class _ImageValidatorPageState extends State<ImageValidatorPage> {
   bool _isLoading = false;
 
   // Configuration - Le développeur peut modifier ces valeurs
-  final List<String> allowedClasses = ['chat', 'chien', 'oiseau'];
+  final List<String> allowedClasses = ['fleure', 'arbre', 'paysage'];
   final double minConfidence = 0.7;
 
   void _showImageSourceSelector() {

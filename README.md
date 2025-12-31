@@ -7,9 +7,7 @@ A Flutter package for validating images using Google's Gemini AI. Easily verify 
 
 ## 🎥 Demo
 
-https://github.com/lecodeur228/ai_image_validator/assets/demo/demo.mp4
-
-> The video shows the package in action: image selection, AI validation, and result display.
+![Demo](demo/demo.gif)
 
 ## ✨ Features
 
